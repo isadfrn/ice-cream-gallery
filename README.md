@@ -15,7 +15,7 @@
 
 ## About
 
-A fully responsive page of an ice cream shop.
+A fully responsive page of an ice gallery.
 
 ![Demo page preview](./assets/img/demo.png)
 
