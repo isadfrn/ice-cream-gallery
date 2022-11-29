@@ -4,7 +4,7 @@
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/ice-cream-gallery?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isadfrn/ice-cream-gallery?style=flat-square)
 
-![Demo page preview](./assets/img/demo.gif)
+![](./assets/img/demo.gif)
 
 ## About
 
