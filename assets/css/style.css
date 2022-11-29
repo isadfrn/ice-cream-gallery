@@ -73,6 +73,12 @@ main .card {
   justify-content: center;
 }
 
+main .card img {
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+}
+
 main .card:hover {
   animation: focus 700ms;
   transition: all 200ms ease;
@@ -156,12 +162,6 @@ footer {
 
   main .card:last-child {
     margin-bottom: 0;
-  }
-
-  main .card img {
-    width: 100%;
-    height: auto;
-    border-radius: 1rem;
   }
 
   footer {
